@@ -1,30 +1,30 @@
 
-### ✅ **Q1. Frequency Counter**
+### **Q1. Frequency Counter**
 **Description:**  
 Counts the frequency of each number in a list.
 
-### ✅ **Q2. Min-Max Normalization**
+### **Q2. Min-Max Normalization**
 **Description:**  
 Normalizes a list of numbers between 0 and 1 using min-max scaling.
 
 
-### ✅ **Q3. Salary Data Cleaning (Pandas)**
+### **Q3. Salary Data Cleaning (Pandas)**
 **Description:**  
 - Generates a sample `salaries.csv` file  
 - Fills missing salary values with the column mean  
 - Calculates the average salary after cleaning
 
-### ✅ **Q4. Iris Classification (Scikit-learn)**
+### **Q4. Iris Classification (Scikit-learn)**
 **Description:**  
 - Loads the Iris dataset  
 - Trains a logistic regression model  
 - Prints the accuracy and classification report
 
-### ✅ **Q5. Prompt Engineering (LLM)**
+### **Q5. Prompt Engineering (LLM)**
 **Description:**  
 Example prompt to summarize a long email into bullet points for a large language model.
 
-### ✅ **Q6. Flask API – Iris Prediction**
+### **Q6. Flask API – Iris Prediction**
 ![image](https://github.com/user-attachments/assets/f0e1b339-c7d8-43fe-a46a-d2d217c55904)
 
 **Description:**  
